@@ -6,4 +6,5 @@ We need a suitably differentiable approximation of a tree such that we can backp
 
 
 # Bibliography
-https://arxiv.org/pdf/2006.04059.pdf
+[Soft gradient boosting machine](https://arxiv.org/pdf/2006.04059.pdf)
+
